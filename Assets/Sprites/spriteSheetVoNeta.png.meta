@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 4566b7ff5f2bb0542a0b72cd34646ef9
+timeCreated: 1495832269
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteSheetVoNeta_0
+    21300002: spriteSheetVoNeta_1
+    21300004: spriteSheetVoNeta_2
+    21300006: spriteSheetVoNeta_3
+    21300008: spriteSheetVoNeta_4
+    21300010: spriteSheetVoNeta_5
+    21300012: spriteSheetVoNeta_6
+    21300014: spriteSheetVoNeta_7
+    21300016: spriteSheetVoNeta_8
+    21300018: spriteSheetVoNeta_9
+    21300020: spriteSheetVoNeta_10
+    21300022: spriteSheetVoNeta_11
+    21300024: spriteSheetVoNeta_12
+    21300026: spriteSheetVoNeta_13
+    21300028: spriteSheetVoNeta_14
+    21300030: spriteSheetVoNeta_15
+    21300032: spriteSheetVoNeta_16
+    21300034: spriteSheetVoNeta_17
+    21300036: spriteSheetVoNeta_18
+    21300038: spriteSheetVoNeta_19
+    21300040: spriteSheetVoNeta_20
+    21300042: spriteSheetVoNeta_21
+    21300044: spriteSheetVoNeta_22
+    21300046: spriteSheetVoNeta_23
+    21300048: spriteSheetVoNeta_24
+    21300050: spriteSheetVoNeta_25
+    21300052: spriteSheetVoNeta_26
+    21300054: spriteSheetVoNeta_27
+    21300056: spriteSheetVoNeta_28
+    21300058: spriteSheetVoNeta_29
+    21300060: spriteSheetVoNeta_30
+    21300062: spriteSheetVoNeta_31
+    21300064: spriteSheetVoNeta_32
+    21300066: spriteSheetVoNeta_33
+    21300068: spriteSheetVoNeta_34
+    21300070: spriteSheetVoNeta_35
+    21300072: spriteSheetVoNeta_36
+    21300074: spriteSheetVoNeta_37
+    21300076: spriteSheetVoNeta_38
+    21300078: spriteSheetVoNeta_39
+    21300080: spriteSheetVoNeta_40
+    21300082: spriteSheetVoNeta_41
+    21300084: spriteSheetVoNeta_42
+    21300086: spriteSheetVoNeta_43
+    21300088: spriteSheetVoNeta_44
+    21300090: spriteSheetVoNeta_45
+    21300092: spriteSheetVoNeta_46
+    21300094: spriteSheetVoNeta_47
+    21300096: spriteSheetVoNeta_48
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 180
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1896
+        width: 225
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1889
+        width: 226
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1894
+        width: 224
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_3
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1894
+        width: 225
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_4
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1891
+        width: 229
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_5
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1892
+        width: 227
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_6
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1913
+        width: 216
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_7
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1911
+        width: 215
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_8
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1917
+        width: 216
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_9
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1916
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_10
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1916
+        width: 215
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_11
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 1915
+        width: 215
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_12
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1916
+        width: 216
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1286
+        width: 226
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1282
+        width: 224
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1290
+        width: 227
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1284
+        width: 226
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_17
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1280
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_18
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1284
+        width: 225
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_19
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1307
+        width: 215
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_20
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1303
+        width: 215
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_21
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1307
+        width: 216
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_22
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1309
+        width: 215
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_23
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1305
+        width: 215
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_24
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1309
+        width: 216
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 690
+        width: 183
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 696
+        width: 182
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 690
+        width: 182
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 694
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_29
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 692
+        width: 182
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_30
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 694
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_31
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 690
+        width: 139
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_32
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 689
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_33
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 690
+        width: 140
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_34
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 691
+        width: 140
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_35
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 691
+        width: 140
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_36
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 691
+        width: 140
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 183
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 109
+        width: 182
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 102
+        width: 182
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_40
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 107
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_41
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 103
+        width: 182
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_42
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 107
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_43
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 152
+        width: 141
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_44
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 149
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_45
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 152
+        width: 141
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_46
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 152
+        width: 140
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_47
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 153
+        width: 140
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheetVoNeta_48
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 152
+        width: 141
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d07d7fb11cb962f4b8058491fec90427
+timeCreated: 1494827632
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BERNARD
+  fontNames:
+  - BERNARD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

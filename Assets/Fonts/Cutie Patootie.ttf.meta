@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5191d62f1fb4c04a82f3b94bd61a9bb
+timeCreated: 1495570944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cutie Patootie
+  fontNames:
+  - Cutie Patootie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

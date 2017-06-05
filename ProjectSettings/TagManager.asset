@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dialogos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Piso
+  - Player
+  - Bancada
+  - Player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Piso
+    uniqueID: 3067403525
+    locked: 0
+  - name: Bancada
+    uniqueID: 1194428535
+    locked: 0
+  - name: Tools
+    uniqueID: 1603667207
+    locked: 0
+  - name: BancadasFrenteDosTools
+    uniqueID: 2630815117
+    locked: 0
+  - name: ToolsCimaDeBancadas
+    uniqueID: 3817749813
+    locked: 0
+  - name: Comidas
+    uniqueID: 3115850901
+    locked: 0
+  - name: Detalhes
+    uniqueID: 1134446725
+    locked: 0
+  - name: Player
+    uniqueID: 217401449
+    locked: 0
+  - name: Player2
+    uniqueID: 682790497
+    locked: 0
+  - name: Parede
+    uniqueID: 3185678081
+    locked: 0
+  - name: Cursor
+    uniqueID: 824241895
+    locked: 0

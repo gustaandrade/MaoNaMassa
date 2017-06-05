@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 51f02976c33c9f94da256796de36a770
+timeCreated: 1494827554
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dunkin Sans
+  fontNames:
+  - Dunkin Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19a1533ccb805924c800aa55ffe40336, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

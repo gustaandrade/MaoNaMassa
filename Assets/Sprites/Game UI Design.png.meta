@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: ddf89822a1bf0aa4a8e858d01212aa88
+timeCreated: 1494985178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game UI Design_0
+    21300002: Game UI Design_1
+    21300004: Game UI Design_2
+    21300006: Game UI Design_3
+    21300008: Game UI Design_4
+    21300010: Game UI Design_5
+    21300012: Game UI Design_6
+    21300014: Game UI Design_7
+    21300016: Game UI Design_8
+    21300018: Game UI Design_9
+    21300020: Game UI Design_10
+    21300022: Game UI Design_11
+    21300024: Game UI Design_12
+    21300026: Game UI Design_13
+    21300028: Game UI Design_14
+    21300030: Game UI Design_15
+    21300032: Game UI Design_16
+    21300034: Game UI Design_17
+    21300036: Game UI Design_18
+    21300038: Game UI Design_19
+    21300040: Game UI Design_20
+    21300042: Game UI Design_21
+    21300044: Game UI Design_22
+    21300046: Game UI Design_23
+    21300048: Game UI Design_24
+    21300050: Game UI Design_25
+    21300052: Game UI Design_26
+    21300054: Game UI Design_27
+    21300056: Game UI Design_28
+    21300058: Game UI Design_29
+    21300060: Game UI Design_30
+    21300062: Game UI Design_31
+    21300064: Game UI Design_32
+    21300066: Game UI Design_33
+    21300068: Game UI Design_34
+    21300070: Game UI Design_35
+    21300072: Game UI Design_36
+    21300074: Game UI Design_37
+    21300076: Game UI Design_38
+    21300078: Game UI Design_39
+    21300080: Game UI Design_40
+    21300082: Game UI Design_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game UI Design_0
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1978
+        width: 351
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1979
+        width: 274
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1979
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_3
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1979
+        width: 335
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1786
+        width: 201
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1786
+        width: 215
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1509
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1508
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1509
+        width: 181
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_9
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1507
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1443
+        width: 98
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1443
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1447
+        width: 123
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_13
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1447
+        width: 166
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1394
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1394
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_16
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1399
+        width: 109
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_17
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1399
+        width: 101
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1175
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1175
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_20
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1175
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_21
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1175
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1111
+        width: 127
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1111
+        width: 118
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_24
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1115
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_25
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1115
+        width: 147
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_26
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1062
+        width: 139
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 857
+        width: 229
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 857
+        width: 232
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_29
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 739
+        width: 662
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 542
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 29
+        width: 958
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_32
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 523
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 490
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 312
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_35
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 310
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 258
+        width: 212
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_37
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 258
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_38
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 258
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 80
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_40
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 76
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game UI Design_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 26
+        width: 192
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

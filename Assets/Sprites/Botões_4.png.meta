@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: be2ac9f130f5611498ae10945d580b58
+timeCreated: 1495946445
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Boto\u0303es_4_0"
+    21300002: "Boto\u0303es_4_1"
+    21300004: "Boto\u0303es_4_2"
+    21300006: "Boto\u0303es_4_3"
+    21300008: "Boto\u0303es_4_4"
+    21300010: "Boto\u0303es_4_5"
+    21300012: "Boto\u0303es_4_6"
+    21300014: "Boto\u0303es_4_7"
+    21300016: "Boto\u0303es_4_8"
+    21300018: "Boto\u0303es_4_9"
+    21300020: "Boto\u0303es_4_10"
+    21300022: "Boto\u0303es_4_11"
+    21300024: "Boto\u0303es_4_12"
+    21300026: "Boto\u0303es_4_13"
+    21300028: "Boto\u0303es_4_14"
+    21300030: "Boto\u0303es_4_15"
+    21300032: "Boto\u0303es_4_16"
+    21300034: "Boto\u0303es_4_17"
+    21300036: "Boto\u0303es_4_18"
+    21300038: "Boto\u0303es_4_19"
+    21300040: "Boto\u0303es_4_20"
+    21300042: "Boto\u0303es_4_21"
+    21300044: "Boto\u0303es_4_22"
+    21300046: "Boto\u0303es_4_23"
+    21300048: "Boto\u0303es_4_24"
+    21300050: "Boto\u0303es_4_25"
+    21300052: "Boto\u0303es_4_26"
+    21300054: "Boto\u0303es_4_27"
+    21300056: "Boto\u0303es_4_28"
+    21300058: "Boto\u0303es_4_29"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_0"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1972
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_1"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1972
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_2"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1972
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_3"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1972
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_4"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1972
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_5"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1972
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_6"
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1345
+        width: 694
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_7"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1756
+        width: 169
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_8"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1756
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_9"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1756
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_10"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1756
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_11"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1756
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_12"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1756
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_13"
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1363
+        width: 567
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_14"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1534
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_15"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1535
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_16"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1534
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_17"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1534
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_18"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1534
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_19"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1534
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_20"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1308
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_21"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1308
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_22"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1308
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_23"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1308
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_24"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1308
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_25"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1308
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_26"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 691
+        width: 793
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_27"
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 691
+        width: 1459
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_28"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 308
+        width: 793
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Boto\u0303es_4_29"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 308
+        width: 1467
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

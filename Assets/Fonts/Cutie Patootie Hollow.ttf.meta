@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ab6a1844e517c442bfb97293bf1e975
+timeCreated: 1495570680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cutie Patootie Hollow
+  fontNames:
+  - Cutie Patootie Hollow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
